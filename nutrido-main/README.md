@@ -38,7 +38,7 @@ Follow these steps to set up and run NutriDo on your local machine.
 ### 1. Clone the Repository:
 Clone the NutriDo repository to your local machine:
 ```bash
-git clone https://github.com/sangeetanandanvishal04/nutrido.git
+git clone https://github.com/poonampoonia01/nutrido.git
 ```
 
 ### 2. Navigate to the Project Directory:
